@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "mocha --timeout 100000 ./test/test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^10.1.0",
+    "selenium-webdriver": "^4.6.1",
+    "webdriver-manager": "^12.1.8"
+  }
+}

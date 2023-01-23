@@ -1,0 +1,10 @@
+{
+    "driverConfig":{
+        "chrome": "selenium-webdriver/chrome",
+        "arguments": "--incognito",
+        "filePath": "./json/test_files.json",
+        "fileExtension": "utf8",
+        "webDriver": "selenium-webdriver",
+        "timeOut": 50000
+    } 
+}
